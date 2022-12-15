@@ -47,7 +47,7 @@ inline bool is_gen_delim(int c)
 {
     return c == ':' || c == '/' || c == '?' || c == '#' || c == '[' || c == ']' || c == '@';
 }
-
+.//yhgy
 /// <summary>
 /// Subdelimiters are those characters that may have a defined meaning within component
 /// of a uri for a particular scheme. They do not serve as delimiters in any case between
